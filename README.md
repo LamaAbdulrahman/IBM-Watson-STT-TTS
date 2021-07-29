@@ -16,7 +16,7 @@
 
 -ibm_cloud_sdk_core.authenticators
 
-output of the speech to text:
+Output of the speech to text conversion:
 <img width="927" alt="outputtxt" src="https://user-images.githubusercontent.com/86415915/127442797-35d31490-d323-40ed-9cc4-6a5f83b3ddf6.PNG">
 
 
