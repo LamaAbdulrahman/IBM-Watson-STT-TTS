@@ -1,12 +1,12 @@
 # IBM-Watson-STT-TTS
-This project make use of the IBM Watson Cloud Services:
+**This project make use of the IBM Watson Cloud Services:**
 
 -Speech to Text: converts live audio speech to text
 
 -Text to Speech: converts text to speech
 
 
-Libraries installed to use the services:
+**Libraries installed to use the services:**
 
 -pyaudio
 
@@ -17,6 +17,6 @@ Libraries installed to use the services:
 -ibm_cloud_sdk_core.authenticators
 
 
-sources:
+**sources:**
 - https://www.youtube.com/watch?v=8k8S5ruFAUs&t=602s
 - https://www.youtube.com/watch?v=YCyuZM454_I&t=849s
